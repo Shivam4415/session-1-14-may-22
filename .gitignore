@@ -1,0 +1,11 @@
+.env
+swagger.json
+node_modules/
+dist/
+logs/
+.vscode/
+Dockerfile.dev
+coverage/
+package-lock.json
+gitlab-ci.yml
+globalConfig.json

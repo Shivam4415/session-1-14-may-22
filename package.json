@@ -1,0 +1,19 @@
+{
+  "name": "session-1",
+  "version": "1.0.0",
+  "description": "Basics on Strategy Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivam4415/session-1-14-may-22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivam4415/session-1-14-may-22/issues"
+  },
+  "homepage": "https://github.com/Shivam4415/session-1-14-may-22#readme"
+}
