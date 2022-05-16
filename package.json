@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shivam4415/session-1-14-may-22/issues"
   },
-  "homepage": "https://github.com/Shivam4415/session-1-14-may-22#readme"
+  "homepage": "https://github.com/Shivam4415/session-1-14-may-22#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
 }
